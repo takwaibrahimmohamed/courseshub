@@ -1,4 +1,4 @@
- CourseHub (Next.js 14 + Strapi + Stripe)
+ CourseHub (Next.js + Strapi + Stripe)
 
 A complete **online courses marketplace** built with **Next.js**, **Strapi**, **Stripe Payment**, and **Tailwind CSS**.  
 The project allows users to browse courses, view details, authenticate with Clerk, add courses to cart, and purchase securely using Stripe.
@@ -7,7 +7,7 @@ The project allows users to browse courses, view details, authenticate with Cler
 
  Features
 
--  Built with **Next.js 14 (App Router)**
+-  Built with **Next.js (App Router)**
 -  Modern UI with **Tailwind CSS**
 -  Content management usin#  CourseHub (Next.js  + Strapi + Stripe)
 
@@ -18,7 +18,7 @@ The project allows users to browse courses, view details, authenticate with Cler
 
  Features
 
--  Built with **Next.js 14 (App Router)**
+-  Built with **Next.js (App Router)**
 -  Modern UI with **Tailwind CSS**
 -  Content management using **Strapi **
 -  Authentication with **Clerk**
@@ -30,7 +30,7 @@ The project allows users to browse courses, view details, authenticate with Cler
 
 ##  Tech Stack
 
-- **Next.js 14** (React framework)
+- **Next.js ** (React framework)
 - **Tailwind CSS** (Styling)
 - **Strapi ** (Headless  for course content)
 - **Clerk** (User authentication & management)
@@ -48,7 +48,7 @@ g **Strapi **
 
 ##  Tech Stack
 
-- **Next.js 14** (React framework)
+- **Next.js** (React framework)
 - **Tailwind CSS** (Styling)
 - **Strapi CMS** (Headless CMS for course content)
 - **Clerk** (User authentication & management)
