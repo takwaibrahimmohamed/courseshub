@@ -28,7 +28,7 @@ The project allows users to browse courses, view details, authenticate with Cler
 
 ---
 
-## 🏗 Tech Stack
+##  Tech Stack
 
 - **Next.js 14** (React framework)
 - **Tailwind CSS** (Styling)
